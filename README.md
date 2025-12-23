@@ -1,1 +1,1 @@
-# Vizag-Steel-Plant
+This project investigates the critical role of raw material quality in optimizing Blast Furnace (BF) performance and increasing production output, based on industrial training at Rashtriya Ispat Nigam Limited (RINL), Visakhapatnam Steel Plant. It explores the influence of chemical composition, physical properties, and sourcing methods on furnace productivity.
